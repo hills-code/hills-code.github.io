@@ -22,7 +22,9 @@ His current research interest lies at Vision-Language models, Large Language Mod
 	- GPA: **95.56 / 100**, Rank: **1 / 144**
 
 ## <span id="publication">Publications</span>
-
+- **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**
+  - **Chengyue Wu**, Xiaokang Chen, Zhiyu Wu, Yiyang Ma, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan, Ping Luo
+  - *Arxiv 2024.05* \[[paper](https://arxiv.org/abs/2410.13848)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
 - **Llama pro: Progressive llama with block expansion**
   - **Chengyue Wu**, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan
   - *ACL 2024, Main Conference* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
