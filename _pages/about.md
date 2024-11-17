@@ -24,7 +24,13 @@ His current research interest lies at Vision-Language models, Large Language Mod
 ## <span id="publication">Publications</span>
 - **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**
   - **Chengyue Wu**, Xiaokang Chen, Zhiyu Wu, Yiyang Ma, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan, Ping Luo
-  - *Arxiv 2024.05* \[[paper](https://arxiv.org/abs/2410.13848)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
+  - *Arxiv 2024.10* \[[paper](https://arxiv.org/abs/2410.13848)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
+- **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**
+  - Yiyang Ma, Xingchao Liu, Xiaokang Chen, Wen Liu, **Chengyue Wu**, Zhiyu Wu, Zizheng Pan, Zhenda Xie, Haowei Zhang, Liang Zhao, Yisong Wang, Jiaying Liu, Chong Ruan
+  - *Arxiv 2024.11* \[[paper](https://arxiv.org/abs/2411.07975)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
+- **Autoregressive Models in Vision: A Survey**
+  - Jing Xiong, Gongye Liu, Lun Huang, **Chengyue Wu**, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong
+  - *Arxiv 2024.11* \[[paper](https://arxiv.org/abs/2411.05902)\] \[[project page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)\]
 - **Llama pro: Progressive llama with block expansion**
   - **Chengyue Wu**, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan
   - *ACL 2024, Main Conference* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
