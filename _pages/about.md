@@ -46,6 +46,9 @@ His current research interest lies at Vision-Language models, Large Language Mod
 - **Fit: Flexible vision transformer for diffusion model**
   - Zeyu Lu, Zidong Wang, Di Huang, **Chengyue Wu**, Xihui Liu, Wanli Ouyang, Lei Bai
   - *ICML 2024, spotlight* \[[paper](https://arxiv.org/pdf/2402.12376)\] \[[project page](https://github.com/whlzy/FiT)\]
+- **Seeing is not always believing: benchmarking human and model perception of AI-generated images**
+  - Zeyu Lu, Di Huang, Lei Bai, Jingjing Qu, **Chengyue Wu**, Xihui Liu, Wanli Ouyang
+  - *Neurips 2023* \[[paper](https://arxiv.org/abs/2304.13023)\] \[[project page](https://github.com/Inf-imagine/Sentry)\]
 - **Generative data augmentation for non-iid problem in decentralized clinical machine learning**
   - Zirui Wang, Shaoming Duan, **Chengyue Wu**, Wenhao Lin, Xinyu Zha, Peiyi Han, Chuanyi Liu
   - *ICDIS 2022* \[[paper](https://ieeexplore.ieee.org/abstract/document/9984853/)\]
