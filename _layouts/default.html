@@ -17,15 +17,11 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&h=150&t=tt&d=GTOXAUL5HS6DiBzhKUqYNweR_VeiZoNixe7DNlRd7R8'></script>
     <div class="page__footer">
       <footer>
-        <!-- {% include footer/custom.html %}
-        {% include footer.html %} -->
-    
-        <!-- 添加 ClustrMaps 的统计代码 -->
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&h=150&t=tt&d=GTOXAUL5HS6DiBzhKUqYNweR_VeiZoNixe7DNlRd7R8'></script>
-    
+        {% include footer/custom.html %}
+        {% include footer.html %}    
       </footer>
     </div>
 
