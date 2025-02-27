@@ -24,10 +24,10 @@ His current research interest lies at Vision-Language models, Large Language Mod
 ## <span id="publication">Publications</span>
 - **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**
   - **Chengyue Wu**, Xiaokang Chen, Zhiyu Wu, Yiyang Ma, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan, Ping Luo
-  - *Arxiv 2024.10* \[[paper](https://arxiv.org/abs/2410.13848)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
+  - *CVPR 2025* \[[paper](https://arxiv.org/abs/2410.13848)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
 - **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**
   - Yiyang Ma, Xingchao Liu, Xiaokang Chen, Wen Liu, **Chengyue Wu**, Zhiyu Wu, Zizheng Pan, Zhenda Xie, Haowei Zhang, Liang Zhao, Yisong Wang, Jiaying Liu, Chong Ruan
-  - *Arxiv 2024.11* \[[paper](https://arxiv.org/abs/2411.07975)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
+  - *CVPR 2025* \[[paper](https://arxiv.org/abs/2411.07975)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
 - **Autoregressive Models in Vision: A Survey**
   - Jing Xiong, Gongye Liu, Lun Huang, **Chengyue Wu**, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong
   - *Arxiv 2024.11* \[[paper](https://arxiv.org/abs/2411.05902)\] \[[project page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)\]
@@ -39,7 +39,7 @@ His current research interest lies at Vision-Language models, Large Language Mod
   - *ICML 2023*  \[[paper](https://arxiv.org/abs/2304.14381)\] \[[project page](https://github.com/TencentARC/pi-Tuning/)\]
 - **Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**
   - **Chengyue Wu**, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo
-  - *Arxiv 2024.05* \[[paper](https://arxiv.org/pdf/2405.07990)\] \[[project page](https://huggingface.co/datasets/TencentARC/Plot2Code)\]
+  - *NAACL 2025, Findings* \[[paper](https://arxiv.org/pdf/2405.07990)\] \[[project page](https://huggingface.co/datasets/TencentARC/Plot2Code)\]
 - **Hierarchical diffusion autoencoders and disentangled image manipulation**
   - Zeyu Lu, **Chengyue Wu**, Xinyuan Chen, Yaohui Wang, Lei Bai, Yu Qiao, Xihui Liu
   - *WACV 2024* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lu_Hierarchical_Diffusion_Autoencoders_and_Disentangled_Image_Manipulation_WACV_2024_paper.pdf)\]
