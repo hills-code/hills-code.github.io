@@ -30,7 +30,7 @@ His current research interest lies at Vision-Language models, Large Language Mod
   - *CVPR 2025* \[[paper](https://arxiv.org/abs/2411.07975)\] \[[project page](https://github.com/deepseek-ai/Janus)\]
 - **Autoregressive Models in Vision: A Survey**
   - Jing Xiong, Gongye Liu, Lun Huang, **Chengyue Wu**, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong
-  - *Arxiv 2024.11* \[[paper](https://arxiv.org/abs/2411.05902)\] \[[project page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)\]
+  - *TMLR* \[[paper](https://arxiv.org/abs/2411.05902)\] \[[project page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)\]
 - **Llama pro: Progressive llama with block expansion**
   - **Chengyue Wu**, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan
   - *ACL 2024, Main Conference* \[[paper](https://arxiv.org/abs/2401.02415)\] \[[project page](https://github.com/TencentARC/LLaMA-Pro)\]
